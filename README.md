@@ -2,7 +2,7 @@
 
 React-Budgie is a budget management application built with React. It provides a user-friendly interface to help you track your expenses, manage your budget, and achieve your financial goals.
 
-![React-Budgie Screenshot]()
+![React-Budgie Screenshot](screenshot.png)
 
 ## Features
 
