@@ -9,7 +9,7 @@ const ExpenseItem = (props) => {
 
     const handleDeleteExpense = () => {
 
-        alert('Are you sure you want to delete it?');
+        // alert('Are you sure you want to delete it?');
 
         dispatch({
             type: 'DELETE_EXPENSE',
