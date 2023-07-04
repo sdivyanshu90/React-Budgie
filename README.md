@@ -6,9 +6,9 @@ React-Budgie is a budget management application built with React. It provides a 
 
 ## Features
 
-- **Budget Overview**: Get a clear overview of your budget, including the total budget amount, remaining budget, and total expenses.
+- **Budget Overview**: Get a clear budget overview, including the total budget amount, remaining budget, and total expenses.
 - **Expense Tracking**: Easily add and remove expenses, with fields for expense name and cost.
-- **LocalStorage Integration**: Your expense data is automatically saved to the browser's localStorage, ensuring your data persists even after refreshing the page.
+- **LocalStorage Integration**: Your expense data is automatically saved to the browser's localStorage, ensuring your data persists after refreshing the page.
 - **Responsive Design**: Enjoy a seamless budget management experience across different devices and screen sizes.
 
 ## Getting Started
@@ -17,25 +17,25 @@ Follow these steps to get started with React-Budgie:
 
 1. Clone the repository:
 
-   ```shell
+   ``` shell
    git clone https://github.com/sdivyanshu90/React-Budgie.git
    ```
 
 2. Navigate to the project directory:
 
-   ```shell
+   ``` shell
    cd React-Budgie
    ```
 
 3. Install the dependencies:
 
-   ```shell
+   ``` shell
    npm install
    ```
 
 4. Start the development server:
 
-   ```shell
+   ``` shell
    npm start
    ```
 
@@ -43,7 +43,7 @@ Follow these steps to get started with React-Budgie:
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's coding conventions and standards.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas, suggestions, or improvements. Please ensure that your contributions align with the project's coding conventions and standards.
 
 
 ## ⭐️ Give it a Star
