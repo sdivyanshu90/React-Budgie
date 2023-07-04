@@ -69,7 +69,7 @@ const AddExpenseForm = () => {
             </div>
         </form>
     )
-}
+};
 
 
 export default AddExpenseForm;
