@@ -18,6 +18,6 @@ const RemainingBudget = () => {
             <span>Remaining: ₹{budget - totalExpenses}</span>
         </div>
     )
-}
+};
 
 export default RemainingBudget;

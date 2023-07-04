@@ -26,6 +26,7 @@ const ExpenseList = () => {
 				placeholder='Type to search...'
 				onChange={handleChange}
 			/>
+			
 			<ul class='list-group mt-3 mb-3'>
 				{filteredExpenses.map((expense) => (
 					<ExpenseItem
