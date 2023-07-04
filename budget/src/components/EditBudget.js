@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 
 const EditBudget = (props) => {
+	
 	const [value, setValue] = useState(props.budget);
+	
 	return (
 		<>
 			<input
@@ -12,6 +14,7 @@ const EditBudget = (props) => {
 				value={value}
 				onChange={(event) => setValue(event.target.value)}
 			/>
+			
 			<button
 				type='button'
 				class='btn btn-primary'
