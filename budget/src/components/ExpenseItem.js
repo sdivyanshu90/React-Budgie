@@ -8,6 +8,9 @@ const ExpenseItem = (props) => {
     const {dispatch} = useContext(AppContext);
 
     const handleDeleteExpense = () => {
+
+        alert('Are you sure you want to delete it?');
+
         dispatch({
             type: 'DELETE_EXPENSE',
             payload: props.id,
