@@ -12,7 +12,7 @@ const App = () => {
 	return (
 		<AppProvider>
 			<div className='container'>
-				<h1 className='d-flex justify-content-center mt-3'>My Budget Planner</h1>
+				<h1 className='d-flex justify-content-center mt-3'>My React-Budgie</h1>
 				<div className='row mt-5'>
 					<div className='col-sm'>
 						<Budget />
