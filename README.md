@@ -45,10 +45,11 @@ Follow these steps to get started with React-Budgie:
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's coding conventions and standards.
 
----
 
 ## ⭐️ Give it a Star
 
 If you find React-Budgie helpful or interesting, please consider giving the repository a star on GitHub. Your support is greatly appreciated and encourages the project's continued development.
 
 👉 [Give React-Budgie a Star](https://github.com/sdivyanshu90/React-Budgie)
+
+---
