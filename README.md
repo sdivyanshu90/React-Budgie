@@ -17,25 +17,25 @@ Follow these steps to get started with React-Budgie:
 
 1. Clone the repository:
 
-   ```shell
+   ``` shell
    git clone https://github.com/sdivyanshu90/React-Budgie.git
    ```
 
 2. Navigate to the project directory:
 
-   ```shell
+   ``` shell
    cd React-Budgie
    ```
 
 3. Install the dependencies:
 
-   ```shell
+   ``` shell
    npm install
    ```
 
 4. Start the development server:
 
-   ```shell
+   ``` shell
    npm start
    ```
 
@@ -52,4 +52,3 @@ If you find React-Budgie helpful or interesting, please consider giving the repo
 
 👉 [Give React-Budgie a Star](https://github.com/sdivyanshu90/React-Budgie)
 
----
